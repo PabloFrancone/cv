@@ -4,19 +4,22 @@ body{
     width: 290px;
     height: 400px;
     border-radius: 25px;
-    margin-left: 300px
+    margin-left: 10px
     
        
  }
  
- background-image: url(./hole\ gnomos.png);
+ background-image: url(./holegnomos.png);
  background-repeat: no-repeat;
  background-position: center ;
  background-size: cover;
  
- .resaltar{
-    background-color: rgba(0, 0, 0, 0.322);
+ .resaltador{
+background-color: rgba(0, 0, 0, 0.347);
+width: 290px;
+height: 100px;
  }
+
 
  .soyBlanco1 {
     color: blanchedalmond;
@@ -34,4 +37,4 @@ body{
     font-family: Arial, Helvetica, sans-serif;
  }
 
- }
+}
